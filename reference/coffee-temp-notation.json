@@ -1,0 +1,73 @@
+{
+  "search_key": "아메리카노",
+  "count": 5,
+  "item": [
+    /*
+            커피 정보는 기본 사이즈 만을 정보 제공
+            -> 사이즈 : 브랜드 별 사이즈 표 참고
+            -> 온도 : 아래와 같이 처리
+    */
+
+    /*
+            1. 이름으로 온도 구분되는 경우, (예시 : 스타벅스)
+            -> 서로 다른 음료로 구분
+            -> 온도는 "" 공백 문자열로 표기
+    */
+    {
+      "drink_name": "아메리카노",
+      "img": "https://dummy.com/dummy.png",
+      "brand": "스타벅스",
+      "size": "톨",
+      "kcal": 5,
+      "temp": "",
+      "caffeine": 150
+    },
+    {
+      "drink_name": "아이스아메리카노",
+      "img": "https://dummy.com/dummy.png",
+      "brand": "스타벅스",
+      "size": "톨",
+      "kcal": 5,
+      "temp": "",
+      "caffeine": 150
+    },
+
+    /*
+            2. 이름이 같고, 온도에 따라 카페인 함량 차이 없는 경우
+            -> 하나의 음료로 정보 제공
+            -> 온도 "" 공백 문자열로 표기
+    */
+    {
+      "drink_name": "아메리카노",
+      "img": "https://dummy.com/dummy.png",
+      "brand": "커피123",
+      "size": "L",
+      "kcal": 5,
+      "temp": "",
+      "caffeine": 120
+    },
+    /*
+            3. 이름이 같고, 온도에 따라 카페인 함량이 차이가 있는 경우 (예시 : 공차)
+            -> 같은 이름의 2개의 음료로 정보 제공
+            -> 온도 "ICE", "HOT" 으로 각각 구분하여 제공
+    */
+    {
+      "drink_name": "아메리카노",
+      "img": "https://dummy.com/dummy.png",
+      "brand": "공차",
+      "size": "L",
+      "kcal": 5,
+      "temp": "ICE",
+      "caffeine": 102
+    },
+    {
+      "drink_name": "아메리카노",
+      "img": "https://dummy.com/dummy.png",
+      "brand": "공차",
+      "size": "L",
+      "kcal": 5,
+      "temp": "HOT",
+      "caffeine": 119
+    }
+  ]
+}
