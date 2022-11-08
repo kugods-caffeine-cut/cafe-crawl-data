@@ -1,0 +1,798 @@
+{
+	"date": "2022년 11월 08일 10시 02분 11.632658초",
+	"count": 132,
+	"item": [
+		{
+			"drink_name": "ABC 초코쿠키 초코딸기 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "ABC 초코쿠키 딥초코 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "ABC 초코쿠키 딥초코 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "깔라만시 에이드",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "커피 토닉",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "에너제틱 시트러스 토닉",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "에너제틱 베리 토닉",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "배생강차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그래놀라 요거트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "코코넛 워터",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블루파인 샤베트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "메론코코샤베트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "와인 샤베트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 쌍화차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "쌍화차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 콘라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "콘라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "석류 콜라겐 요거트스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "콜라겐 요거트스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "딸기 요거트 쉐이크",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "망고 요거트 쉐이크",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "딸기주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "곡성 멜론 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 아메리카노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "흑당 단호박 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 카페라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 카라멜 마끼아또",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "흑당 버블티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 헤이즐넛 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 바닐라 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "딸기 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 군고구마라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 바닐라빈 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "망고 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 그린라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 오리엔탈 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 꼰대라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 허니 그린라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 카푸치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블루베리 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "자몽 후레쉬 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 카페모카",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "탐스런 사과착즙주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "스트로베리 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "밀싹케일 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "플레인 요거트 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블랙베리 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "소프트 플레인 요거트 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아메리카노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "바닐라 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "자몽 에이드",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "딸기 요거트 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "오렌지 에이드",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "카페라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "망고 요거트 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블루 레몬 에이드",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "카푸치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "카라멜 마끼아또",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "레몬 에이드",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블루베리 요거트 스무디",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "헤이즐넛 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 초코",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "오리엔탈 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "꼰대라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 그린민트 초콜릿",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "카페모카",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "복숭아 아이스티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "블루 레몬 슬러시",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "바닐라 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 허니 레몬티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "바닐라빈 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 허니 유자차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "자바칩 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 허니 자몽 얼그레이",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "에스프레소 - 마끼아또",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "엑스트라 자바칩 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 캐모마일",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "에스프레소 - 콘파냐",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 페퍼민트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "에스프레소",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 콜롬비아",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 동티모르",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 디카페인",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "월넛 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 스페셜티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "쿠키앤크림 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "허니 월넛치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 시다모",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그린티 초코칩 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 예가체프",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "싱글오리진 케냐 AA",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "콜드브루",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "얼그레이",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "허니 그린라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "군고구마 라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그릭요거트",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그린라떼",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그린민트 초코 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그린민트 초콜릿",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "그린티 탐앤치노",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "당근사과 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "허니 레몬티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "로얄 밀크티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "루이보스 오렌지",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "마시는요거트(딸기)",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "마시는요거트(블루베리)",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "마시는요거트(플레인)",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "밀크티 (얼그레이)",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "베이비 그린티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "브루잉 - 블라썸",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "브루잉 - 블랙와인",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "브루잉 - 아리차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "브루잉 - 케냐AA",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "브루잉 - 콜롬비아",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "비트파인애플 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "수박주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 로얄 밀크티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 밀크티 (얼그레이)",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 베이비 그린티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 동티모르",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 디카페인",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 스페셜티",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 시다모",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 예가체프",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 케냐AA",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 싱글오리진 콜롬비아",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "아이스 얼그레이",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "오렌지 자몽 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "오렌지 후레쉬 주스",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "허니 유자차",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "허니 자몽 얼그레이",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		},
+		{
+			"drink_name": "캐모마일",
+			"size": "470ml",
+			"kcal": "350",
+			"caffeine": "0mg"
+		}
+	]
+}
