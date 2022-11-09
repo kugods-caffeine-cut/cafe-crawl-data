@@ -56,10 +56,10 @@ menu_list_li = bsObject.select('div#plusmode_tb_product_listbody > div')
 for item in menu_list_li:
 
     name = item.select('div.title-bx h3.tit')[0].text.strip()
-    item_data=re.findall('<span>(.+?)</span>',str(menu_list_li[12].select('tbody')[0]))
+    item_data=re.findall('<span>(.+?)</span>',str(item.select('tbody')[0]))
 
 
-    size = '정보 없음'
+    size = 0
     j=0
     for i in item_data:
         j+=1
@@ -71,20 +71,20 @@ for item in menu_list_li:
     for i in item_data:
         j+=1
         if i=='열량':
-            kcal=item_data[j]    
+            kcal=item_data[j] 
 
     caffeine=0
     j=0
     for i in item_data:
         j+=1
         if i=='카페인':
-            caffeine=item_data[j].split('mg')[0]
+            caffeine=item_data[j]
 
 
     temp=""
     img=""
 
-    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":(size.strip()), "kcal":kcal.strip(),  "caffeine":caffeine})
+    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":size, "kcal":kcal,  "caffeine":caffeine})
     data['count'] += 1
     
 
