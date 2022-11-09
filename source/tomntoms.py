@@ -60,25 +60,28 @@ for item in menu_list_li:
 
 
     size = 0
-    j=0
-    for i in item_data:
-        j+=1
-        if i=='1회 제공량':
-            size=item_data[j].strip().split('ml')[0]
-
     kcal = 0
     j=0
     for i in item_data:
         j+=1
+        if i=='1회 제공량':
+            size=int(re.match(r'\d+', item_data[j])[0])
+
         if i=='열량':
-            kcal=item_data[j] 
+            if item_data[j] ==' - ' or item_data[j] =='-':
+                kcal=0
+            else:
+                kcal=int(re.findall(r'\d+', item_data[j])[0])
 
     caffeine=0
     j=0
     for i in item_data:
         j+=1
         if i=='카페인':
-            caffeine=item_data[j]
+            if item_data[j] =='-':
+                caffeine=0
+            else:
+                caffeine=int(re.findall(r'\d+', item_data[j])[0])
 
 
     temp=""
