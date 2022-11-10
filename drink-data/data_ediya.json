@@ -1,0 +1,1350 @@
+{
+	"date": "2022년 11월 11일 00시 28분 50.309180초",
+	"count": 168,
+	"item": [
+		{
+			"drink_name": "흑임자크림 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "415",
+			"caffeine": "170"
+		},
+		{
+			"drink_name": "흑임자크림 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "355",
+			"caffeine": "140"
+		},
+		{
+			"drink_name": "흑임자크림 카페라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "455",
+			"caffeine": "165"
+		},
+		{
+			"drink_name": "흑임자크림 카페라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "420",
+			"caffeine": "145"
+		},
+		{
+			"drink_name": "애플 루이보스티",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "75",
+			"caffeine": "9"
+		},
+		{
+			"drink_name": "애플 루이보스티",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "75",
+			"caffeine": "9"
+		},
+		{
+			"drink_name": "연유 밀크티",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "339",
+			"caffeine": "157"
+		},
+		{
+			"drink_name": "연유 밀크티",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "283",
+			"caffeine": "112"
+		},
+		{
+			"drink_name": "제주 호지차 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "234",
+			"caffeine": "130"
+		},
+		{
+			"drink_name": "제주 호지차 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "180",
+			"caffeine": "88"
+		},
+		{
+			"drink_name": "이디야 워터",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "",
+			"caffeine": ""
+		},
+		{
+			"drink_name": "이디야 청포도케일 주스",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "144",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "이디야 감귤한라봉 주스",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "108",
+			"caffeine": "12"
+		},
+		{
+			"drink_name": "이디야 사과당근 주스",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "103",
+			"caffeine": "37"
+		},
+		{
+			"drink_name": "그린루이보스",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "그린루이보스",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "샤인히비스커스",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "5",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "샤인히비스커스",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "5",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "스프링캐모마일",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "스프링캐모마일",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "퓨어페퍼민트",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "5",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "퓨어페퍼민트",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "5",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "프레시그린티",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "6",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "프레시그린티",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "6",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "피치얼그레이",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "피치얼그레이",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "7",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "아인슈페너",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "103",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "아인슈페너",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "103",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "쌍화차",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "212",
+			"caffeine": "100"
+		},
+		{
+			"drink_name": "쌍화차",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "212",
+			"caffeine": "100"
+		},
+		{
+			"drink_name": "생강차",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "235",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "생강차",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "235",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "달고나 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "276",
+			"caffeine": "137"
+		},
+		{
+			"drink_name": "달고나 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "417",
+			"caffeine": "197"
+		},
+		{
+			"drink_name": "이디야 콤부차 복숭아망고",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "128",
+			"caffeine": "20"
+		},
+		{
+			"drink_name": "이디야 콤부차 청포도레몬",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "120",
+			"caffeine": "140"
+		},
+		{
+			"drink_name": "아포가토 오리지널",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "166",
+			"caffeine": "35"
+		},
+		{
+			"drink_name": "콜드브루 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "10",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "콜드브루 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "15",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "11",
+			"caffeine": "1"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "16",
+			"caffeine": "1"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "111",
+			"caffeine": "81"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "209",
+			"caffeine": "156"
+		},
+		{
+			"drink_name": "콜드브루 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "128",
+			"caffeine": "95"
+		},
+		{
+			"drink_name": "콜드브루 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "208",
+			"caffeine": "155"
+		},
+		{
+			"drink_name": "콜드브루 니트로",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "12",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 니트로",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "11",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "콜드브루 화이트 비엔나",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "273",
+			"caffeine": "89"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 화이트 비엔나",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "291",
+			"caffeine": "138"
+		},
+		{
+			"drink_name": "콜드브루 크림넛",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "254",
+			"caffeine": "87"
+		},
+		{
+			"drink_name": "디카페인 콜드브루 크림넛",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "253",
+			"caffeine": "101"
+		},
+		{
+			"drink_name": "디카페인 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "250",
+			"caffeine": "86"
+		},
+		{
+			"drink_name": "디카페인 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "399",
+			"caffeine": "141"
+		},
+		{
+			"drink_name": "디카페인 연유 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "265",
+			"caffeine": "94"
+		},
+		{
+			"drink_name": "디카페인 연유 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "432",
+			"caffeine": "187"
+		},
+		{
+			"drink_name": "디카페인 버블 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "274",
+			"caffeine": "79"
+		},
+		{
+			"drink_name": "디카페인 버블 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "513",
+			"caffeine": "158"
+		},
+		{
+			"drink_name": "흑당 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "243",
+			"caffeine": "85"
+		},
+		{
+			"drink_name": "흑당 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "388",
+			"caffeine": "140"
+		},
+		{
+			"drink_name": "흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "248",
+			"caffeine": "85"
+		},
+		{
+			"drink_name": "흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "397",
+			"caffeine": "140"
+		},
+		{
+			"drink_name": "버블 흑당 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "266",
+			"caffeine": "79"
+		},
+		{
+			"drink_name": "버블 흑당 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "430",
+			"caffeine": "149"
+		},
+		{
+			"drink_name": "버블 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "271",
+			"caffeine": "79"
+		},
+		{
+			"drink_name": "버블 흑당 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "439",
+			"caffeine": "149"
+		},
+		{
+			"drink_name": "버블 크림 밀크티",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "323",
+			"caffeine": "90"
+		},
+		{
+			"drink_name": "연유 카페라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "330",
+			"caffeine": "147"
+		},
+		{
+			"drink_name": "연유 카페라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "280",
+			"caffeine": "107"
+		},
+		{
+			"drink_name": "연유 카페라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "522",
+			"caffeine": "261"
+		},
+		{
+			"drink_name": "연유 카페라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "429",
+			"caffeine": "186"
+		},
+		{
+			"drink_name": "연유 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "282",
+			"caffeine": "107"
+		},
+		{
+			"drink_name": "연유 콜드브루",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "431",
+			"caffeine": "186"
+		},
+		{
+			"drink_name": "자몽네이블오렌지",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "136",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "자몽네이블오렌지",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "322",
+			"caffeine": "4"
+		},
+		{
+			"drink_name": "유자피나콜라다",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "10",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "유자피나콜라다",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "290",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "석류애플라임",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "136",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "석류애플라임",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "312",
+			"caffeine": "15"
+		},
+		{
+			"drink_name": "이디야 사과주스",
+			"temp": "",
+			"img": "",
+			"size": "병음료",
+			"kcal": "115",
+			"caffeine": "11"
+		},
+		{
+			"drink_name": "제주청귤 오리지널",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "218",
+			"caffeine": "4"
+		},
+		{
+			"drink_name": "제주청귤 블러썸",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "202",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "석류 오리지널",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "176",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "석류 애플라임",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "186",
+			"caffeine": "12"
+		},
+		{
+			"drink_name": "레몬 스윗플럼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "229",
+			"caffeine": "10"
+		},
+		{
+			"drink_name": "자몽 네이블 오렌지",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "196",
+			"caffeine": "6"
+		},
+		{
+			"drink_name": "유자 피나콜라다",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "197",
+			"caffeine": "3"
+		},
+		{
+			"drink_name": "에스프레소",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "8",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "에스프레소 마끼아또",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "14",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "에스프레소 콘파냐",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "47",
+			"caffeine": "8"
+		},
+		{
+			"drink_name": "카페 아메리카노",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "8",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "카페 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "8",
+			"caffeine": "0"
+		},
+		{
+			"drink_name": "카페 아메리카노",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "16",
+			"caffeine": "1"
+		},
+		{
+			"drink_name": "카페 아메리카노",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "16",
+			"caffeine": "1"
+		},
+		{
+			"drink_name": "카페 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "164",
+			"caffeine": "125"
+		},
+		{
+			"drink_name": "카페 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "108",
+			"caffeine": "80"
+		},
+		{
+			"drink_name": "카페 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "321",
+			"caffeine": "246"
+		},
+		{
+			"drink_name": "카페 라떼",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "184",
+			"caffeine": "136"
+		},
+		{
+			"drink_name": "카푸치노",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "136",
+			"caffeine": "101"
+		},
+		{
+			"drink_name": "카푸치노",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "124",
+			"caffeine": "91"
+		},
+		{
+			"drink_name": "카페 모카",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "322",
+			"caffeine": "133"
+		},
+		{
+			"drink_name": "카페 모카",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "294",
+			"caffeine": "100"
+		},
+		{
+			"drink_name": "카페 모카",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "542",
+			"caffeine": "247"
+		},
+		{
+			"drink_name": "카페 모카",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "417",
+			"caffeine": "147"
+		},
+		{
+			"drink_name": "카라멜 마끼아또",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "217",
+			"caffeine": "163"
+		},
+		{
+			"drink_name": "카라멜 마끼아또",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "167",
+			"caffeine": "123"
+		},
+		{
+			"drink_name": "카라멜 마끼아또",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "412",
+			"caffeine": "275"
+		},
+		{
+			"drink_name": "카라멜 마끼아또",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "275",
+			"caffeine": "165"
+		},
+		{
+			"drink_name": "바닐라 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "218",
+			"caffeine": "119"
+		},
+		{
+			"drink_name": "바닐라 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "168",
+			"caffeine": "79"
+		},
+		{
+			"drink_name": "바닐라 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "435",
+			"caffeine": "237"
+		},
+		{
+			"drink_name": "바닐라 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "298",
+			"caffeine": "127"
+		},
+		{
+			"drink_name": "화이트 초콜릿 모카",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "346",
+			"caffeine": "163"
+		},
+		{
+			"drink_name": "화이트 초콜릿 모카",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "310",
+			"caffeine": "122"
+		},
+		{
+			"drink_name": "화이트 초콜릿 모카",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "515",
+			"caffeine": "226"
+		},
+		{
+			"drink_name": "민트 모카",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "360",
+			"caffeine": "150"
+		},
+		{
+			"drink_name": "화이트 초콜릿 모카",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "403",
+			"caffeine": "136"
+		},
+		{
+			"drink_name": "민트 모카",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "335",
+			"caffeine": "119"
+		},
+		{
+			"drink_name": "초콜릿",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "346",
+			"caffeine": "152"
+		},
+		{
+			"drink_name": "초콜릿",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "321",
+			"caffeine": "143"
+		},
+		{
+			"drink_name": "초콜릿",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "564",
+			"caffeine": "281"
+		},
+		{
+			"drink_name": "초콜릿",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "459",
+			"caffeine": "185"
+		},
+		{
+			"drink_name": "화이트 초콜릿",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "345",
+			"caffeine": "168"
+		},
+		{
+			"drink_name": "화이트 초콜릿",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "321",
+			"caffeine": "137"
+		},
+		{
+			"drink_name": "화이트 초콜릿",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "547",
+			"caffeine": "261"
+		},
+		{
+			"drink_name": "화이트 초콜릿",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "428",
+			"caffeine": "166"
+		},
+		{
+			"drink_name": "녹차 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "238",
+			"caffeine": "127"
+		},
+		{
+			"drink_name": "녹차 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "188",
+			"caffeine": "87"
+		},
+		{
+			"drink_name": "녹차 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "466",
+			"caffeine": "248"
+		},
+		{
+			"drink_name": "녹차 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "341",
+			"caffeine": "148"
+		},
+		{
+			"drink_name": "민트 초콜릿",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "371",
+			"caffeine": "164"
+		},
+		{
+			"drink_name": "민트 초콜릿",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "346",
+			"caffeine": "133"
+		},
+		{
+			"drink_name": "이곡 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "279",
+			"caffeine": "127"
+		},
+		{
+			"drink_name": "이곡 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "235",
+			"caffeine": "92"
+		},
+		{
+			"drink_name": "토피넛 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "308",
+			"caffeine": "215"
+		},
+		{
+			"drink_name": "토피넛 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "254",
+			"caffeine": "173"
+		},
+		{
+			"drink_name": "토피넛 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "523",
+			"caffeine": "374"
+		},
+		{
+			"drink_name": "토피넛 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "398",
+			"caffeine": "274"
+		},
+		{
+			"drink_name": "고구마 라떼",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "325",
+			"caffeine": "103"
+		},
+		{
+			"drink_name": "고구마 라떼",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "325",
+			"caffeine": "103"
+		},
+		{
+			"drink_name": "홍시주스",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "238",
+			"caffeine": "27"
+		},
+		{
+			"drink_name": "골드키위주스",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "241",
+			"caffeine": "23"
+		},
+		{
+			"drink_name": "딸기주스",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "260",
+			"caffeine": "4"
+		},
+		{
+			"drink_name": "아이스티 복숭아",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "185",
+			"caffeine": "9"
+		},
+		{
+			"drink_name": "아이스티 복숭아",
+			"temp": "",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "370",
+			"caffeine": "18"
+		},
+		{
+			"drink_name": "아이스티 레몬",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "178",
+			"caffeine": "16"
+		},
+		{
+			"drink_name": "아이스티 레몬",
+			"temp": "",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "356",
+			"caffeine": "32"
+		},
+		{
+			"drink_name": "밀크티",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "235",
+			"caffeine": "137"
+		},
+		{
+			"drink_name": "밀크티",
+			"temp": "ICE",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "170",
+			"caffeine": "85"
+		},
+		{
+			"drink_name": "유자차",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "187",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "레몬차",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "218",
+			"caffeine": "1"
+		},
+		{
+			"drink_name": "자몽차",
+			"temp": "HOT",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "186",
+			"caffeine": "2"
+		},
+		{
+			"drink_name": "커피 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "181",
+			"caffeine": "116"
+		},
+		{
+			"drink_name": "카라멜 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "358",
+			"caffeine": "189"
+		},
+		{
+			"drink_name": "모카 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "220",
+			"caffeine": "121"
+		},
+		{
+			"drink_name": "녹차 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "287",
+			"caffeine": "84"
+		},
+		{
+			"drink_name": "자몽 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "150",
+			"caffeine": "13"
+		},
+		{
+			"drink_name": "망고 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "256",
+			"caffeine": "16"
+		},
+		{
+			"drink_name": "꿀복숭아 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "225",
+			"caffeine": "9"
+		},
+		{
+			"drink_name": "초콜릿 칩 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "410",
+			"caffeine": "141"
+		},
+		{
+			"drink_name": "민트 초콜릿 칩 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "497",
+			"caffeine": "118"
+		},
+		{
+			"drink_name": "플레인 요거트 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "227",
+			"caffeine": "78"
+		},
+		{
+			"drink_name": "블루베리 요거트 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "298",
+			"caffeine": "82"
+		},
+		{
+			"drink_name": "딸기 요거트 플랫치노",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "322",
+			"caffeine": "84"
+		},
+		{
+			"drink_name": "오리진 쉐이크",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "535",
+			"caffeine": "208"
+		},
+		{
+			"drink_name": "초코쿠키 쉐이크",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "613",
+			"caffeine": "304"
+		},
+		{
+			"drink_name": "딸기 쉐이크",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "650",
+			"caffeine": "215"
+		},
+		{
+			"drink_name": "레몬 에이드",
+			"temp": "",
+			"img": "",
+			"size": "레귤러",
+			"kcal": "117",
+			"caffeine": "5"
+		},
+		{
+			"drink_name": "레몬 에이드",
+			"temp": "",
+			"img": "",
+			"size": "엑스트라",
+			"kcal": "188",
+			"caffeine": "8"
+		}
+	]
+}
