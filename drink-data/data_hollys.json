@@ -1,0 +1,150 @@
+{
+	"date": "2022년 11월 11일 12시 18분 23.265069초",
+	"count": 18,
+	"item": [
+		{
+			"drink_name": "윈터 티라미수 라떼",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202211030915138420.png",
+			"size": "Regular",
+			"kcal": 414,
+			"caffeine": 93
+		},
+		{
+			"drink_name": "디카페인 아메리카노",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310249534340.png",
+			"size": "Regular",
+			"kcal": 221,
+			"caffeine": 93
+		},
+		{
+			"drink_name": "디카페인 카페라떼",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100952274340.png",
+			"size": "Regular",
+			"kcal": 12,
+			"caffeine": 3
+		},
+		{
+			"drink_name": "디카페인 바닐라 딜라이트",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310248502260.png",
+			"size": "Regular",
+			"kcal": 12,
+			"caffeine": 3
+		},
+		{
+			"drink_name": "프리미엄 블렌드 아메리카노",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100954143020.png",
+			"size": "Regular",
+			"kcal": 189,
+			"caffeine": 3
+		},
+		{
+			"drink_name": "프리미엄 블렌드 딥라떼",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110501025020.png",
+			"size": "Regular",
+			"kcal": 123,
+			"caffeine": 3
+		},
+		{
+			"drink_name": "콜드브루 딜라이트",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202209050523340280.png",
+			"size": "Regular",
+			"kcal": 247,
+			"caffeine": 6
+		},
+		{
+			"drink_name": "콜드브루 라떼",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100953196550.png",
+			"size": "Regular",
+			"kcal": 190,
+			"caffeine": 6
+		},
+		{
+			"drink_name": "콜드브루",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_201808160415316710.png",
+			"size": "Regular",
+			"kcal": 13,
+			"caffeine": 233
+		},
+		{
+			"drink_name": "바닐라딜라이트",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110500272440.png",
+			"size": "Regular",
+			"kcal": 13,
+			"caffeine": 233
+		},
+		{
+			"drink_name": "리스트레또딜라이트",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310250218710.png",
+			"size": "Regular",
+			"kcal": 141,
+			"caffeine": 111
+		},
+		{
+			"drink_name": "카라멜 마키아또 ",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310250489580.png",
+			"size": "Regular",
+			"kcal": 109,
+			"caffeine": 111
+		},
+		{
+			"drink_name": "카페모카",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310251043970.png",
+			"size": "Regular",
+			"kcal": 204,
+			"caffeine": 183
+		},
+		{
+			"drink_name": "카푸치노",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_201905220134475420.png",
+			"size": "Regular",
+			"kcal": 122,
+			"caffeine": 183
+		},
+		{
+			"drink_name": "카페라떼 ",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202208310252574560.png",
+			"size": "Regular",
+			"kcal": 12,
+			"caffeine": 183
+		},
+		{
+			"drink_name": "아메리카노",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202208310252263900.png",
+			"size": "Regular",
+			"kcal": 256,
+			"caffeine": 80
+		},
+		{
+			"drink_name": "아포가토",
+			"temp": "ICED",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/coffee_img19.png",
+			"size": "Regular",
+			"kcal": 209,
+			"caffeine": 80
+		},
+		{
+			"drink_name": "에스프레소",
+			"temp": "HOT",
+			"img": "//admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100950557620.png",
+			"size": "Regular",
+			"kcal": 311,
+			"caffeine": 93
+		}
+	]
+}
