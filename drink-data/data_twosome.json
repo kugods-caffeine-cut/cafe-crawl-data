@@ -1,6 +1,5 @@
 {
-	"date": "2022년 11월 10일 16시 39분 50.201468초",
-	"count": 103,
+	"count": 104,
 	"item": [
 		{
 			"drink_name": "윈터오렌지비앙코",
@@ -15,8 +14,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191427_01_01_20221011084228.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 245,
-			"caffeine": 157
+			"kcal": 330,
+			"caffeine": 171
 		},
 		{
 			"drink_name": "(1호점)신촌커피",
@@ -27,20 +26,12 @@
 			"caffeine": 154
 		},
 		{
-			"drink_name": "디카페인데이&나잇",
-			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191381_01_01_20220902041124.jpg?width=600&height=600&q=100",
-			"temp": "ICE",
-			"size": "레귤러",
-			"kcal": 50,
-			"caffeine": 8
-		},
-		{
-			"drink_name": "디카페인데이&나잇",
-			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191381_01_01_20220902041124.jpg?width=600&height=600&q=100",
+			"drink_name": "(1호점)신촌커피",
+			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191382_01_01_20220831.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 50,
-			"caffeine": 8
+			"kcal": 325,
+			"caffeine": 154
 		},
 		{
 			"drink_name": "디카페인데이&나잇",
@@ -103,7 +94,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100002_01_01_20210611.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 170,
+			"kcal": 120,
 			"caffeine": 154
 		},
 		{
@@ -127,7 +118,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/105.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 225,
+			"kcal": 170,
 			"caffeine": 154
 		},
 		{
@@ -143,7 +134,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100005_01_01_20210611.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 280,
+			"kcal": 260,
 			"caffeine": 160
 		},
 		{
@@ -159,7 +150,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100007_01_01_20210614.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 240,
+			"kcal": 205,
 			"caffeine": 154
 		},
 		{
@@ -215,7 +206,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/117.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 310,
+			"kcal": 350,
 			"caffeine": 154
 		},
 		{
@@ -287,7 +278,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191275_01_01_20220304.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 435,
+			"kcal": 395,
 			"caffeine": 154
 		},
 		{
@@ -327,8 +318,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201656_01_01_20221011084449.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 315,
-			"caffeine": 59
+			"kcal": 400,
+			"caffeine": 71
 		},
 		{
 			"drink_name": "시트러스부케",
@@ -343,7 +334,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201638_01_01_20220831.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 150,
+			"kcal": 175,
 			"caffeine": 0
 		},
 		{
@@ -376,7 +367,7 @@
 			"temp": "",
 			"size": "레귤러",
 			"kcal": 0,
-			"caffeine": 74
+			"caffeine": 87
 		},
 		{
 			"drink_name": "얼그레이",
@@ -391,8 +382,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/132.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 0,
-			"caffeine": 61
+			"kcal": 9,
+			"caffeine": 72
 		},
 		{
 			"drink_name": "민트",
@@ -408,7 +399,7 @@
 			"temp": "",
 			"size": "레귤러",
 			"kcal": 0,
-			"caffeine": 33
+			"caffeine": 39
 		},
 		{
 			"drink_name": "카모마일",
@@ -423,7 +414,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200025_01_01_20210115.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 0,
+			"kcal": 10,
 			"caffeine": 0
 		},
 		{
@@ -455,8 +446,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201605_01_01_20210818.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 0,
-			"caffeine": 51
+			"kcal": 5,
+			"caffeine": 60
 		},
 		{
 			"drink_name": "애플민트티",
@@ -471,8 +462,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200029_01_01_20210610.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 110,
-			"caffeine": 27
+			"kcal": 150,
+			"caffeine": 34
 		},
 		{
 			"drink_name": "허니레몬티",
@@ -487,8 +478,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200030_01_01_20210610.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 120,
-			"caffeine": 51
+			"kcal": 100,
+			"caffeine": 57
 		},
 		{
 			"drink_name": "아이스버블밀크티",
@@ -519,23 +510,23 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200033_01_01_20210610.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
+			"kcal": 180,
+			"caffeine": 132
+		},
+		{
+			"drink_name": "그린티라떼",
+			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200034_01_01_20210610.jpg?width=600&height=600&q=100",
+			"temp": "ICE",
+			"size": "레귤러",
+			"kcal": 275,
+			"caffeine": 54
+		},
+		{
+			"drink_name": "그린티라떼",
+			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200034_01_01_20210610.jpg?width=600&height=600&q=100",
+			"temp": "",
+			"size": "레귤러",
 			"kcal": 240,
-			"caffeine": 116
-		},
-		{
-			"drink_name": "그린티라떼",
-			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200034_01_01_20210610.jpg?width=600&height=600&q=100",
-			"temp": "ICE",
-			"size": "레귤러",
-			"kcal": 275,
-			"caffeine": 54
-		},
-		{
-			"drink_name": "그린티라떼",
-			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200034_01_01_20210610.jpg?width=600&height=600&q=100",
-			"temp": "",
-			"size": "레귤러",
-			"kcal": 275,
 			"caffeine": 54
 		},
 		{
@@ -551,7 +542,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/140.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 260,
+			"kcal": 215,
 			"caffeine": 0
 		},
 		{
@@ -567,7 +558,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/141.png?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 175,
+			"kcal": 130,
 			"caffeine": 0
 		},
 		{
@@ -751,8 +742,8 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10300036_01_01_20210525.JPG?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 410,
-			"caffeine": 18
+			"kcal": 370,
+			"caffeine": 21
 		},
 		{
 			"drink_name": "블루베리요거트드링크",
@@ -799,7 +790,7 @@
 			"img": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10300038_01_01_20210610.jpg?width=600&height=600&q=100",
 			"temp": "",
 			"size": "레귤러",
-			"kcal": 325,
+			"kcal": 295,
 			"caffeine": 0
 		},
 		{
