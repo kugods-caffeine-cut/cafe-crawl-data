@@ -8,7 +8,7 @@ import time
 import datetime
 
 cwd = os.getcwd()
-print(cwd)
+print("current path: ", cwd)
 htmls = []    
 for i in range(1,4): # https://www.coffeebeankorea.com/menu/list.asp?category=13
     htmls.append('https://www.coffeebeankorea.com/menu/list.asp?page='+ str(i) +'&category=13&category2=1')
@@ -60,6 +60,10 @@ for html in htmls:
         JsonFile = json.load(file)
         JsonFile["count"] += data["count"]
         JsonFile["item"] += data["item"]
+
+        data["item"] = []
+        data["count"] = 0
+        
     with open((cwd+"/data/data_coffeebean.json"),"w",encoding='utf-8') as file:
         json.dump(JsonFile, file, indent='\t', ensure_ascii=False)
 

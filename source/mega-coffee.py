@@ -22,17 +22,17 @@ driver.get(html)
 for loop in range(1, 7):
     driver.implicitly_wait(3) 
 
-    prev_height = driver.execute_script('return document.body.scrollHeight')
-    #스크롤 내리기 -> 필요 없을 시, 없애도 무방함.
-    for i in range(10):
-                driver.execute_script('window.scrollTo(0, document.body.scrollHeight)')
-                time.sleep(1)
+    # prev_height = driver.execute_script('return document.body.scrollHeight')
+    # #스크롤 내리기 -> 필요 없을 시, 없애도 무방함.
+    # for i in range(10):
+    #     driver.execute_script('window.scrollTo(0, document.body.scrollHeight)')
+    #     time.sleep(1)
 
-                current_height = driver.execute_script('return document.body.scrollHeight')
+    #     current_height = driver.execute_script('return document.body.scrollHeight')
 
-                if prev_height == current_height:
-                    break
-    time.sleep(3)
+    #     if prev_height == current_height:
+    #         break
+    #     time.sleep(3)
     
     
     data = dict()
@@ -59,26 +59,30 @@ for loop in range(1, 7):
 
     #push item into ./data/data.json
     if loop == 1:
-        with open((cwd+"/../drink-data/megacoffee.json"),"w",encoding='utf-8') as file:
+        with open((cwd+"/data/megacoffee.json"),"w",encoding='utf-8') as file:
             json.dump(data, file, indent='\t', ensure_ascii=False)
+        driver.find_element(By.XPATH, '//*[@id="board_page"]/li[6]/a').click()
+        print("page "+str(loop)+" done")
+        continue
     else:
-        with open((cwd+"/../drink-data/megacoffee.json"),"r",encoding='utf-8') as file:
+        with open((cwd+"/data/megacoffee.json"),"r",encoding='utf-8') as file:
             JsonFile = json.load(file)
             JsonFile["count"] += data["count"]
             JsonFile["item"] += data["item"]
-        with open((cwd+"/../drink-data/megacoffee.json"),"w",encoding='utf-8') as file:
+
+        with open((cwd+"/data/megacoffee.json"),"w",encoding='utf-8') as file:
             json.dump(JsonFile, file, indent='\t', ensure_ascii=False)
 
     if loop<5:        
-        driver.find_element(By.XPATH,'//*[@id="board_page"]/li[4]/a').click()
+        driver.find_element(By.XPATH,'//*[@id="board_page"]/li[7]/a').click()
     else:
-        driver.find_element(By.XPATH,'//*[@id="board_page"]/li[6]/a').click()
+        driver.find_element(By.XPATH,'//*[@id="board_page"]/li[5]/a').click()
 
     print("page "+str(loop)+" done")
 
 
-    
-    
+# //*[@id="board_page"]/li[5]/a
+# //*[@id="board_page"]/li[7]
 # //*[@id="board_page"]/li[3]/a #1p 기준 2p
 # //*[@id="board_page"]/li[5]/a #2p기준 3p
 # //*[@id="board_page"]/li[6]/a #3p 기준 4p

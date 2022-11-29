@@ -19,7 +19,7 @@ driver.set_window_size(960,1080)
 driver.implicitly_wait(5)#로딩시간에 따라 변경하거나, 없애도 됨
 html_item = ['/mn/menuInfoDetail.do?menuCd=10191427', '/mn/menuInfoDetail.do?menuCd=10191382', '/mn/menuInfoDetail.do?menuCd=10191381', '/mn/menuInfoDetail.do?menuCd=10191380', '/mn/menuInfoDetail.do?menuCd=10100001', '/mn/menuInfoDetail.do?menuCd=10100002', '/mn/menuInfoDetail.do?menuCd=10100003', '/mn/menuInfoDetail.do?menuCd=10100004', '/mn/menuInfoDetail.do?menuCd=10100005', '/mn/menuInfoDetail.do?menuCd=10100007', '/mn/menuInfoDetail.do?menuCd=10100009', '/mn/menuInfoDetail.do?menuCd=10100008', '/mn/menuInfoDetail.do?menuCd=10100010', '/mn/menuInfoDetail.do?menuCd=10100017', '/mn/menuInfoDetail.do?menuCd=10100018', '/mn/menuInfoDetail.do?menuCd=10100019', '/mn/menuInfoDetail.do?menuCd=10100020', '/mn/menuInfoDetail.do?menuCd=10100021', '/mn/menuInfoDetail.do?menuCd=10100022', '/mn/menuInfoDetail.do?menuCd=10191275', '/mn/menuInfoDetail.do?menuCd=10201655', '/mn/menuInfoDetail.do?menuCd=10201654', '/mn/menuInfoDetail.do?menuCd=10201656', '/mn/menuInfoDetail.do?menuCd=10201638', '/mn/menuInfoDetail.do?menuCd=10201639', '/mn/menuInfoDetail.do?menuCd=10201604', '/mn/menuInfoDetail.do?menuCd=10200027', '/mn/menuInfoDetail.do?menuCd=10200028', '/mn/menuInfoDetail.do?menuCd=10200025', '/mn/menuInfoDetail.do?menuCd=10200026', '/mn/menuInfoDetail.do?menuCd=10201605', '/mn/menuInfoDetail.do?menuCd=10200029', '/mn/menuInfoDetail.do?menuCd=10200030', '/mn/menuInfoDetail.do?menuCd=10200035', '/mn/menuInfoDetail.do?menuCd=10200079', '/mn/menuInfoDetail.do?menuCd=10200033', '/mn/menuInfoDetail.do?menuCd=10200034', '/mn/menuInfoDetail.do?menuCd=10200031', '/mn/menuInfoDetail.do?menuCd=10200032', '/mn/menuInfoDetail.do?menuCd=10200024', '/mn/menuInfoDetail.do?menuCd=10301872', '/mn/menuInfoDetail.do?menuCd=10301763', '/mn/menuInfoDetail.do?menuCd=10301764', '/mn/menuInfoDetail.do?menuCd=10300051', '/mn/menuInfoDetail.do?menuCd=10300049', '/mn/menuInfoDetail.do?menuCd=10300050', '/mn/menuInfoDetail.do?menuCd=10301794', '/mn/menuInfoDetail.do?menuCd=10300041', '/mn/menuInfoDetail.do?menuCd=10301781', '/mn/menuInfoDetail.do?menuCd=10300044', '/mn/menuInfoDetail.do?menuCd=10300042', '/mn/menuInfoDetail.do?menuCd=10300043', '/mn/menuInfoDetail.do?menuCd=10300048', '/mn/menuInfoDetail.do?menuCd=10300039', '/mn/menuInfoDetail.do?menuCd=10300040', '/mn/menuInfoDetail.do?menuCd=10300045', '/mn/menuInfoDetail.do?menuCd=10300046', '/mn/menuInfoDetail.do?menuCd=10300047', '/mn/menuInfoDetail.do?menuCd=10301834', '/mn/menuInfoDetail.do?menuCd=10300036', '/mn/menuInfoDetail.do?menuCd=10300056', '/mn/menuInfoDetail.do?menuCd=10300057', '/mn/menuInfoDetail.do?menuCd=10300037', '/mn/menuInfoDetail.do?menuCd=10300038', '/mn/menuInfoDetail.do?menuCd=10300053', '/mn/menuInfoDetail.do?menuCd=10300054', '/mn/menuInfoDetail.do?menuCd=10300055']
 
-for loop in range(39, len(html_item)):
+for loop in range(len(html_item)):
     driver.get(html + html_item[loop])
     driver.implicitly_wait(5) 
         
@@ -94,11 +94,11 @@ for loop in range(39, len(html_item)):
         
         #push item into ./data/data.json
     
-        with open((cwd+"/../drink-data/data_twosome.json"),"r",encoding='utf-8') as file:
+        with open((cwd+"/data/data_twosome.json"),"r",encoding='utf-8') as file:
             JsonFile = json.load(file)
             JsonFile["count"] += 1
             JsonFile["item"].append(item)
-        with open((cwd+"/../drink-data/data_twosome.json"),"w",encoding='utf-8') as file:
+        with open((cwd+"/data/data_twosome.json"),"w",encoding='utf-8') as file:
             json.dump(JsonFile, file, indent='\t', ensure_ascii=False)
 
         print("page "+str(loop+1)+"/"+str(len(html_item)+1)+" \n\tver : "+str(temp_sel)+"/"+str(len(temp))+" done")
