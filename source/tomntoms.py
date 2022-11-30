@@ -87,7 +87,7 @@ for item in menu_list_li:
     temp=""
     img=""
 
-    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":size, "kcal":kcal,  "caffeine":caffeine})
+    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":str(size), "kcal":kcal,  "caffeine":caffeine})
     data['count'] += 1
     
 
