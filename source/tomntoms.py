@@ -11,7 +11,7 @@ from selenium.webdriver.common.keys import Keys
 import re
 
 cwd = os.getcwd()
-print(cwd)
+print("=========",cwd)
 html = 'https://tomntoms.com/menu/menu.html'     
 # driver = webdriver.Chrome(os.path.join(cwd, "/chromedriver"))
 driver = webdriver.Chrome(cwd + "/chromedriver")
@@ -56,6 +56,8 @@ menu_list_li = bsObject.select('div#plusmode_tb_product_listbody > div')
 for item in menu_list_li:
 
     name = item.select('div.title-bx h3.tit')[0].text.strip()
+    if '요거트' in name:
+        continue
     item_data=re.findall('<span>(.+?)</span>',str(item.select('tbody')[0]))
 
 
@@ -66,6 +68,17 @@ for item in menu_list_li:
         j+=1
         if i=='1회 제공량':
             size=int(re.match(r'\d+', item_data[j])[0])
+            
+      
+     
+        if size == 0 or size == 300 or size ==310 :
+            size='톨'
+        elif size == 410 or size ==430 or size ==470 :
+            size='그란데'          
+        elif size==30 or size==50 or size ==40:
+            size='샷'
+   
+        
 
         if i=='열량':
             if item_data[j] ==' - ' or item_data[j] =='-':
@@ -87,7 +100,7 @@ for item in menu_list_li:
     temp=""
     img=""
 
-    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":str(size), "kcal":kcal,  "caffeine":caffeine})
+    data['item'].append({"drink_name" : name, "temp" : temp, "img":img, "size":size, "kcal":kcal,  "caffeine":caffeine})
     data['count'] += 1
     
 
@@ -95,3 +108,5 @@ with open((cwd+"/data/data_tomntoms.json"),"w",encoding='utf-8') as file:
             json.dump(data, file, indent='\t', ensure_ascii=False)
 
 print('done')
+#:\Users\User\Desktop\WebCrawler-megacoffee\cafe-crawl-data\data
+#C:\Users\User\Desktop\WebCrawler-megacoffee\cafe-crawl-data\source\tomntoms.py
