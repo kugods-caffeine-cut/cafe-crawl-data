@@ -1,12 +1,12 @@
 {
-	"date": "2022년 11월 09일 12시 22분 37.874490초",
-	"count": 120,
+	"date": "2022년 12월 08일 17시 50분 12.572018초",
+	"count": 118,
 	"item": [
 		{
 			"drink_name": "ABC 초코쿠키 초코딸기 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 558,
 			"caffeine": 0
 		},
@@ -14,7 +14,7 @@
 			"drink_name": "ABC 초코쿠키 딥초코 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 571,
 			"caffeine": 0
 		},
@@ -22,7 +22,7 @@
 			"drink_name": "ABC 초코쿠키 딥초코 라떼",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 852,
 			"caffeine": 0
 		},
@@ -30,7 +30,7 @@
 			"drink_name": "깔라만시 에이드",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 186,
 			"caffeine": 0
 		},
@@ -38,7 +38,7 @@
 			"drink_name": "커피 토닉",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 64,
 			"caffeine": 109
 		},
@@ -46,7 +46,7 @@
 			"drink_name": "에너제틱 시트러스 토닉",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 4,
 			"caffeine": 50
 		},
@@ -54,7 +54,7 @@
 			"drink_name": "에너제틱 베리 토닉",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 4,
 			"caffeine": 50
 		},
@@ -67,50 +67,26 @@
 			"caffeine": 0
 		},
 		{
-			"drink_name": "그래놀라 요거트",
+			"drink_name": "아이스 레드뱅쇼",
 			"temp": "",
 			"img": "",
-			"size": 390,
-			"kcal": 239,
+			"size": "그란데",
+			"kcal": 129,
 			"caffeine": 0
 		},
 		{
-			"drink_name": "코코넛 워터",
+			"drink_name": "레드뱅쇼",
 			"temp": "",
 			"img": "",
-			"size": 0,
-			"kcal": 0,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "블루파인 샤베트",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 186,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "메론코코샤베트",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 210,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "와인 샤베트",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 350,
+			"size": "톨",
+			"kcal": 129,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "아이스 쌍화차",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 192,
 			"caffeine": 0
 		},
@@ -118,7 +94,7 @@
 			"drink_name": "쌍화차",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 192,
 			"caffeine": 0
 		},
@@ -126,7 +102,7 @@
 			"drink_name": "아이스 콘라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 341,
 			"caffeine": 0
 		},
@@ -134,47 +110,15 @@
 			"drink_name": "콘라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 417,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "석류 콜라겐 요거트스무디",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 396,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "콜라겐 요거트스무디",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 400,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "딸기 요거트 쉐이크",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 404,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "망고 요거트 쉐이크",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 448,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "딸기주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 381,
 			"caffeine": 0
 		},
@@ -182,7 +126,7 @@
 			"drink_name": "곡성 멜론 스무디",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 377,
 			"caffeine": 0
 		},
@@ -190,23 +134,15 @@
 			"drink_name": "아이스 아메리카노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 5,
 			"caffeine": 97
-		},
-		{
-			"drink_name": "흑당 단호박 라떼",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 418,
-			"caffeine": 0
 		},
 		{
 			"drink_name": "아이스 카페라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 107,
 			"caffeine": 97
 		},
@@ -214,7 +150,7 @@
 			"drink_name": "아이스 카라멜 마끼아또",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 240,
 			"caffeine": 97
 		},
@@ -222,7 +158,7 @@
 			"drink_name": "흑당 버블티",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 392,
 			"caffeine": 0
 		},
@@ -230,7 +166,7 @@
 			"drink_name": "아이스 헤이즐넛 라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 158,
 			"caffeine": 97
 		},
@@ -238,7 +174,7 @@
 			"drink_name": "아이스 바닐라 라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 156,
 			"caffeine": 97
 		},
@@ -246,7 +182,7 @@
 			"drink_name": "딸기 스무디",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 176,
 			"caffeine": 0
 		},
@@ -254,7 +190,7 @@
 			"drink_name": "아이스 군고구마라떼",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 457,
 			"caffeine": 0
 		},
@@ -262,7 +198,7 @@
 			"drink_name": "아이스 바닐라빈 라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 261,
 			"caffeine": 92
 		},
@@ -270,7 +206,7 @@
 			"drink_name": "망고 스무디",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 282,
 			"caffeine": 0
 		},
@@ -278,7 +214,7 @@
 			"drink_name": "아이스 그린라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 221,
 			"caffeine": 0
 		},
@@ -286,7 +222,7 @@
 			"drink_name": "아이스 오리엔탈 라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 228,
 			"caffeine": 97
 		},
@@ -294,7 +230,7 @@
 			"drink_name": "아이스 꼰대라떼",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 290,
 			"caffeine": 109
 		},
@@ -302,7 +238,7 @@
 			"drink_name": "아이스 허니 그린라떼",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 285,
 			"caffeine": 0
 		},
@@ -310,7 +246,7 @@
 			"drink_name": "아이스 카푸치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 100,
 			"caffeine": 97
 		},
@@ -318,7 +254,7 @@
 			"drink_name": "블루베리 스무디",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 198,
 			"caffeine": 0
 		},
@@ -326,7 +262,7 @@
 			"drink_name": "자몽 후레쉬 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 98,
 			"caffeine": 0
 		},
@@ -334,7 +270,7 @@
 			"drink_name": "아이스 카페모카",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 242,
 			"caffeine": 97
 		},
@@ -342,7 +278,7 @@
 			"drink_name": "탐스런 사과착즙주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 166,
 			"caffeine": 0
 		},
@@ -350,7 +286,7 @@
 			"drink_name": "스트로베리 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 149,
 			"caffeine": 0
 		},
@@ -358,39 +294,23 @@
 			"drink_name": "밀싹케일 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 152,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "플레인 요거트 스무디",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 353,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "블랙베리 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 160,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "소프트 플레인 요거트 스무디",
-			"temp": "",
-			"img": "",
-			"size": 470,
-			"kcal": 646,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "아메리카노",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 5,
 			"caffeine": 97
 		},
@@ -398,7 +318,7 @@
 			"drink_name": "바닐라 라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 231,
 			"caffeine": 97
 		},
@@ -406,23 +326,15 @@
 			"drink_name": "자몽 에이드",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 147,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "딸기 요거트 스무디",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 240,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "오렌지 에이드",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 136,
 			"caffeine": 0
 		},
@@ -430,23 +342,15 @@
 			"drink_name": "카페라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 182,
 			"caffeine": 97
-		},
-		{
-			"drink_name": "망고 요거트 스무디",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 301,
-			"caffeine": 0
 		},
 		{
 			"drink_name": "블루 레몬 에이드",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 153,
 			"caffeine": 0
 		},
@@ -454,7 +358,7 @@
 			"drink_name": "카푸치노",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 175,
 			"caffeine": 97
 		},
@@ -462,7 +366,7 @@
 			"drink_name": "카라멜 마끼아또",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 249,
 			"caffeine": 97
 		},
@@ -470,23 +374,15 @@
 			"drink_name": "레몬 에이드",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 147,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "블루베리 요거트 스무디",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 264,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "헤이즐넛 라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 234,
 			"caffeine": 97
 		},
@@ -494,7 +390,7 @@
 			"drink_name": "아이스 초코",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 277,
 			"caffeine": 0
 		},
@@ -502,7 +398,7 @@
 			"drink_name": "오리엔탈 라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 303,
 			"caffeine": 97
 		},
@@ -510,7 +406,7 @@
 			"drink_name": "꼰대라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 290,
 			"caffeine": 109
 		},
@@ -518,7 +414,7 @@
 			"drink_name": "아이스 그린민트 초콜릿",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 360,
 			"caffeine": 0
 		},
@@ -526,7 +422,7 @@
 			"drink_name": "카페모카",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 317,
 			"caffeine": 97
 		},
@@ -534,7 +430,7 @@
 			"drink_name": "복숭아 아이스티",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 170,
 			"caffeine": 20
 		},
@@ -542,7 +438,7 @@
 			"drink_name": "블루 레몬 슬러시",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 206,
 			"caffeine": 0
 		},
@@ -550,7 +446,7 @@
 			"drink_name": "바닐라 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 355,
 			"caffeine": 48
 		},
@@ -558,7 +454,7 @@
 			"drink_name": "아이스 허니 레몬티",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 92,
 			"caffeine": 0
 		},
@@ -566,7 +462,7 @@
 			"drink_name": "바닐라빈 라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 277,
 			"caffeine": 92
 		},
@@ -574,7 +470,7 @@
 			"drink_name": "아이스 허니 유자차",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 225,
 			"caffeine": 0
 		},
@@ -582,7 +478,7 @@
 			"drink_name": "자바칩 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 468,
 			"caffeine": 0
 		},
@@ -590,7 +486,7 @@
 			"drink_name": "아이스 허니 자몽 얼그레이",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 98,
 			"caffeine": 17
 		},
@@ -598,7 +494,7 @@
 			"drink_name": "에스프레소 - 마끼아또",
 			"temp": "",
 			"img": "",
-			"size": 40,
+			"size": "샷",
 			"kcal": 12,
 			"caffeine": 48
 		},
@@ -606,7 +502,7 @@
 			"drink_name": "엑스트라 자바칩 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 569,
 			"caffeine": 0
 		},
@@ -614,7 +510,7 @@
 			"drink_name": "아이스 캐모마일",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 0,
 			"caffeine": 0
 		},
@@ -622,7 +518,7 @@
 			"drink_name": "에스프레소 - 콘파냐",
 			"temp": "",
 			"img": "",
-			"size": 50,
+			"size": "샷",
 			"kcal": 40,
 			"caffeine": 48
 		},
@@ -630,7 +526,7 @@
 			"drink_name": "아이스 페퍼민트",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 0,
 			"caffeine": 0
 		},
@@ -638,7 +534,7 @@
 			"drink_name": "에스프레소",
 			"temp": "",
 			"img": "",
-			"size": 30,
+			"size": "샷",
 			"kcal": 5,
 			"caffeine": 48
 		},
@@ -646,7 +542,7 @@
 			"drink_name": "싱글오리진 콜롬비아",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 119
 		},
@@ -654,7 +550,7 @@
 			"drink_name": "싱글오리진 동티모르",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 132
 		},
@@ -662,7 +558,7 @@
 			"drink_name": "싱글오리진 디카페인",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 6
 		},
@@ -670,7 +566,7 @@
 			"drink_name": "월넛 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 551,
 			"caffeine": 0
 		},
@@ -678,7 +574,7 @@
 			"drink_name": "싱글오리진 스페셜티",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 161
 		},
@@ -686,7 +582,7 @@
 			"drink_name": "쿠키앤크림 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 392,
 			"caffeine": 0
 		},
@@ -694,7 +590,7 @@
 			"drink_name": "허니 월넛치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 691,
 			"caffeine": 0
 		},
@@ -702,7 +598,7 @@
 			"drink_name": "싱글오리진 시다모",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 143
 		},
@@ -710,7 +606,7 @@
 			"drink_name": "그린티 초코칩 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 440,
 			"caffeine": 0
 		},
@@ -718,7 +614,7 @@
 			"drink_name": "싱글오리진 예가체프",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 125
 		},
@@ -726,7 +622,7 @@
 			"drink_name": "싱글오리진 케냐 AA",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 10,
 			"caffeine": 132
 		},
@@ -734,7 +630,7 @@
 			"drink_name": "콜드브루",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 22,
 			"caffeine": 113
 		},
@@ -742,7 +638,7 @@
 			"drink_name": "얼그레이",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 0,
 			"caffeine": 17
 		},
@@ -750,7 +646,7 @@
 			"drink_name": "허니 그린라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 326,
 			"caffeine": 0
 		},
@@ -758,23 +654,15 @@
 			"drink_name": "군고구마 라떼",
 			"temp": "",
 			"img": "",
-			"size": 430,
+			"size": "그란데",
 			"kcal": 519,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "그릭요거트",
-			"temp": "",
-			"img": "",
-			"size": 400,
-			"kcal": 576,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "그린라떼",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 280,
 			"caffeine": 0
 		},
@@ -782,7 +670,7 @@
 			"drink_name": "그린민트 초코 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 486,
 			"caffeine": 0
 		},
@@ -790,7 +678,7 @@
 			"drink_name": "그린민트 초콜릿",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 435,
 			"caffeine": 0
 		},
@@ -798,7 +686,7 @@
 			"drink_name": "그린티 탐앤치노",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 358,
 			"caffeine": 0
 		},
@@ -806,7 +694,7 @@
 			"drink_name": "당근사과 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 170,
 			"caffeine": 0
 		},
@@ -814,7 +702,7 @@
 			"drink_name": "허니 레몬티",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 92,
 			"caffeine": 0
 		},
@@ -822,7 +710,7 @@
 			"drink_name": "로얄 밀크티",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 347,
 			"caffeine": 0
 		},
@@ -830,39 +718,15 @@
 			"drink_name": "루이보스 오렌지",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 0,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "마시는요거트(딸기)",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 614,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "마시는요거트(블루베리)",
-			"temp": "",
-			"img": "",
-			"size": 410,
-			"kcal": 631,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "마시는요거트(플레인)",
-			"temp": "",
-			"img": "",
-			"size": 400,
-			"kcal": 504,
 			"caffeine": 0
 		},
 		{
 			"drink_name": "밀크티 (얼그레이)",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 203,
 			"caffeine": 10
 		},
@@ -870,7 +734,7 @@
 			"drink_name": "베이비 그린티",
 			"temp": "",
 			"img": "",
-			"size": 310,
+			"size": "톨",
 			"kcal": 0,
 			"caffeine": 60
 		},
@@ -878,7 +742,7 @@
 			"drink_name": "브루잉 - 블라썸",
 			"temp": "",
 			"img": "",
-			"size": 300,
+			"size": "톨",
 			"kcal": 9,
 			"caffeine": 131
 		},
@@ -886,7 +750,7 @@
 			"drink_name": "브루잉 - 블랙와인",
 			"temp": "",
 			"img": "",
-			"size": 300,
+			"size": "톨",
 			"kcal": 9,
 			"caffeine": 132
 		},
@@ -894,7 +758,7 @@
 			"drink_name": "브루잉 - 아리차",
 			"temp": "",
 			"img": "",
-			"size": 300,
+			"size": "톨",
 			"kcal": 9,
 			"caffeine": 125
 		},
@@ -902,7 +766,7 @@
 			"drink_name": "브루잉 - 케냐AA",
 			"temp": "",
 			"img": "",
-			"size": 300,
+			"size": "톨",
 			"kcal": 9,
 			"caffeine": 139
 		},
@@ -910,7 +774,7 @@
 			"drink_name": "브루잉 - 콜롬비아",
 			"temp": "",
 			"img": "",
-			"size": 300,
+			"size": "톨",
 			"kcal": 9,
 			"caffeine": 137
 		},
@@ -918,7 +782,7 @@
 			"drink_name": "비트파인애플 주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 160,
 			"caffeine": 0
 		},
@@ -926,7 +790,7 @@
 			"drink_name": "수박주스",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 134,
 			"caffeine": 0
 		},
@@ -934,7 +798,7 @@
 			"drink_name": "아이스 로얄 밀크티",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 305,
 			"caffeine": 0
 		},
@@ -942,7 +806,7 @@
 			"drink_name": "아이스 밀크티 (얼그레이)",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 194,
 			"caffeine": 10
 		},
@@ -950,7 +814,7 @@
 			"drink_name": "아이스 베이비 그린티",
 			"temp": "",
 			"img": "",
-			"size": 410,
+			"size": "그란데",
 			"kcal": 0,
 			"caffeine": 60
 		},
@@ -958,9 +822,129 @@
 			"drink_name": "아이스 싱글오리진 동티모르",
 			"temp": "",
 			"img": "",
-			"size": 470,
+			"size": "그란데",
 			"kcal": 10,
 			"caffeine": 132
+		},
+		{
+			"drink_name": "아이스 싱글오리진 디카페인",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 6
+		},
+		{
+			"drink_name": "아이스 싱글오리진 스페셜티",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 161
+		},
+		{
+			"drink_name": "아이스 싱글오리진 시다모",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 143
+		},
+		{
+			"drink_name": "아이스 싱글오리진 예가체프",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 125
+		},
+		{
+			"drink_name": "아이스 싱글오리진 케냐AA",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 132
+		},
+		{
+			"drink_name": "아이스 싱글오리진 콜롬비아",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 10,
+			"caffeine": 119
+		},
+		{
+			"drink_name": "아이스 얼그레이",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 0,
+			"caffeine": 17
+		},
+		{
+			"drink_name": "오렌지 자몽 주스",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 129,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "오렌지 후레쉬 주스",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 84,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "허니 유자차",
+			"temp": "",
+			"img": "",
+			"size": "톨",
+			"kcal": 234,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "허니 자몽 얼그레이",
+			"temp": "",
+			"img": "",
+			"size": "톨",
+			"kcal": 98,
+			"caffeine": 17
+		},
+		{
+			"drink_name": "캐모마일",
+			"temp": "",
+			"img": "",
+			"size": "톨",
+			"kcal": 0,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "파인애플 주스",
+			"temp": "",
+			"img": "",
+			"size": "그란데",
+			"kcal": 173,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "페퍼민트",
+			"temp": "",
+			"img": "",
+			"size": "톨",
+			"kcal": 0,
+			"caffeine": 0
+		},
+		{
+			"drink_name": "핫 초코",
+			"temp": "",
+			"img": "",
+			"size": "톨",
+			"kcal": 352,
+			"caffeine": 0
 		}
 	]
 }
