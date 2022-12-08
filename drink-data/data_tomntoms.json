@@ -1,6 +1,6 @@
 {
-	"date": "2022년 12월 08일 17시 50분 12.572018초",
-	"count": 118,
+	"date": "2022년 12월 08일 18시 57분 06.199840초",
+	"count": 106,
 	"item": [
 		{
 			"drink_name": "ABC 초코쿠키 초코딸기 탐앤치노",
@@ -62,7 +62,7 @@
 			"drink_name": "배생강차",
 			"temp": "",
 			"img": "",
-			"size": 0,
+			"size": "톨",
 			"kcal": 0,
 			"caffeine": 0
 		},
@@ -849,102 +849,6 @@
 			"size": "그란데",
 			"kcal": 10,
 			"caffeine": 143
-		},
-		{
-			"drink_name": "아이스 싱글오리진 예가체프",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 10,
-			"caffeine": 125
-		},
-		{
-			"drink_name": "아이스 싱글오리진 케냐AA",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 10,
-			"caffeine": 132
-		},
-		{
-			"drink_name": "아이스 싱글오리진 콜롬비아",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 10,
-			"caffeine": 119
-		},
-		{
-			"drink_name": "아이스 얼그레이",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 0,
-			"caffeine": 17
-		},
-		{
-			"drink_name": "오렌지 자몽 주스",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 129,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "오렌지 후레쉬 주스",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 84,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "허니 유자차",
-			"temp": "",
-			"img": "",
-			"size": "톨",
-			"kcal": 234,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "허니 자몽 얼그레이",
-			"temp": "",
-			"img": "",
-			"size": "톨",
-			"kcal": 98,
-			"caffeine": 17
-		},
-		{
-			"drink_name": "캐모마일",
-			"temp": "",
-			"img": "",
-			"size": "톨",
-			"kcal": 0,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "파인애플 주스",
-			"temp": "",
-			"img": "",
-			"size": "그란데",
-			"kcal": 173,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "페퍼민트",
-			"temp": "",
-			"img": "",
-			"size": "톨",
-			"kcal": 0,
-			"caffeine": 0
-		},
-		{
-			"drink_name": "핫 초코",
-			"temp": "",
-			"img": "",
-			"size": "톨",
-			"kcal": 352,
-			"caffeine": 0
 		}
 	]
 }
