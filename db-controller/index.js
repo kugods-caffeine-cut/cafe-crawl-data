@@ -53,22 +53,22 @@ for (idx in files) {
     items = items.concat(temp['item']);
 }
 
-// console.log(items)
-// console.log(items.length)
-
 /**
  * DB controller 함수 정의 예시
  */
-const foo = async () => {
-    var res = await Drink.create({
-        drink_name: '아이스 에스프레소',
-        temp: '',
-        img: 'https://www.coffeebeankorea.com/data/menu/data/menu/아이스에스프레소.jpg',
-        size: '스몰',
-        kcal: 5,
-        caffeine: 297,
-        brand: '커피빈'
-    })
+
+for (let i in items) {
+    items[i] = {
+        updateOne: {
+            filter: { drink_name: items[i].drink_name, brand: items[i].brand, temp: items[i].temp },
+            update: items[i],
+            upsert: true
+        }
+    }
+}
+foo = async () => {
+    const res = await Drink.bulkWrite(items)
     console.log(res)
 }
+
 // foo();
