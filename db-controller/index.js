@@ -57,6 +57,8 @@ for (idx in files) {
  * DB controller 함수 정의 예시
  */
 
+// items를 wrapping하여 BulkWrite 쿼리 작성
+// drink_name / brand / temp 기준으로 upsert 판단하여 commit
 for (let i in items) {
     items[i] = {
         updateOne: {
@@ -66,6 +68,7 @@ for (let i in items) {
         }
     }
 }
+
 foo = async () => {
     const res = await Drink.bulkWrite(items)
     console.log(res)
